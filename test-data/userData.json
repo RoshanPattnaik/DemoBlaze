@@ -1,0 +1,17 @@
+{
+  "username": "Roshan09",
+  "password": "Roshan09",
+  "products": [
+    "Samsung galaxy s6",
+    "Nokia lumia 1520",
+    "Nexus 6"
+  ],
+  "order": {
+    "name": "Roshan Pattnaik",
+    "country": "India",
+    "city": "Bhubaneswar",
+    "card": "4111111111111111",
+    "month": "12",
+    "year": "2026"
+  }
+}
